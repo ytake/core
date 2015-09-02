@@ -11,7 +11,6 @@ use ClassPreloader\Command\PreCompileCommand;
  */
 class PreCompiler
 {
-
     /** @var PreCompileCommand */
     protected $compiler;
 

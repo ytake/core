@@ -1,9 +1,13 @@
 {
-  "name": "iono-jp/iono",
+  "name": "ytake/core",
   "description": "php micro framework for api",
   "minimum-stability": "stable",
   "license": "MIT",
-  "keywords": ["rest", "microframework", "api"],
+  "keywords": [
+    "rest",
+    "microframework",
+    "api"
+  ],
   "authors": [
     {
       "name": "yuuki.takezawa",
@@ -14,7 +18,6 @@
     "php": ">=5.5",
     "illuminate/container": "5.*",
     "iono/dispatcher": "0.*",
-    "klein/klein": "2.*",
     "nikic/fast-route": "*",
     "symfony/http-foundation": "2.*",
     "classpreloader/classpreloader": "1.*",
